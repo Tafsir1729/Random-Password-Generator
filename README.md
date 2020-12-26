@@ -1,1 +1,1 @@
-# Random-Password-Generator-in-C
+# Random-Password-Generator
